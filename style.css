@@ -74,7 +74,7 @@ a{
 
 @media (max-width:400px) {
     html{
-        font-size: 12px;
+        font-size:12px;
     }
     .mainContainer{
         flex-direction: column-reverse;
